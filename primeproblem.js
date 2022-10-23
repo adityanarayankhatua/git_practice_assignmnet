@@ -8,3 +8,7 @@ if(a%i==0){
 }else {
 console.log("not prime")
 }
+
+
+
+//opefjfpkjk
